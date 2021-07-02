@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vikash D
 - 👀 I’m interested in Python and MERN Stack
 - 🌱 I’m currently learning Python and Node JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : vikashdhanabal003@gmail.com
 
 <!---
