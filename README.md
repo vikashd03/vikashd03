@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikash Dhanbal</h1>
 <h3 align="center">Associate Software Engineer at Zscaler | MERN Stack | TypeScript | Python | Django | Linux</h3>
 
-- 🌱 I’m currently learning **React JS, Next JS, TypeScript**
-- 💬 Ask me about **Python, Django, Express JS, Shell Scripting**
+- 🌱 I’m currently learning **Redux, Webpack, Micro Frontend**
+- 💬 Ask me about **React JS, Next JS, Express JS, Python, Django, Shell Scripting**
 - 📫 How to reach me **vikashdhanabal003@gmail.com**
 - 📄 Check out my resume [here](https://drive.google.com/file/d/1OKVUyXezSOOEcZA2vyw6h7388EmUGqe5/view)
 - 👨‍💻 Check out my portfolio [here](https://vikashdhanabal.vercel.app)
