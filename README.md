@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Dhanbal</h1>
-<h3 align="center">Associate Software Engineer at Zscaler | MERN Stack | TypeScript | Python | Django | Linux</h3>
+<h3 align="center">Software Engineer at Zscaler | MERN Stack | TypeScript | Python | Django | Linux</h3>
 
 - 🌱 I’m currently learning **Redux, Webpack, Micro Frontend**
 - 💬 Ask me about **React JS, Next JS, Express JS, Python, Django, Shell Scripting**
